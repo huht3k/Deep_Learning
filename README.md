@@ -1,2 +1,3 @@
 # Deep_Learning
-### weight_init.py:  Xavier initialization
+### weight_init.py
+> Xavier initialization
