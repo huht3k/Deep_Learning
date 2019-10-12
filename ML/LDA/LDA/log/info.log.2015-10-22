@@ -1,0 +1,12 @@
+2015-10-22 17:07:07,803 INFO 共有13个文档
+2015-10-22 17:07:07,862 INFO 词与序号对应关系已保存到H:\isoftstone\LDA\python-LDA-master\LDA-python-from wangjing\data\tmp\wordidmap.dat
+2015-10-22 17:11:17,299 INFO 迭代完成。
+2015-10-22 17:11:17,346 DEBUG 计算文章-主题分布
+2015-10-22 17:11:17,346 DEBUG 计算词-主题分布
+2015-10-22 17:11:17,346 DEBUG 保存模型
+2015-10-22 17:11:17,348 INFO 文章-主题分布已保存到H:\isoftstone\LDA\python-LDA-master\LDA-python-from wangjing\data\tmp\model_theta.dat
+2015-10-22 17:11:17,404 INFO 词-主题分布已保存到H:\isoftstone\LDA\python-LDA-master\LDA-python-from wangjing\data\tmp\model_phi.dat
+2015-10-22 17:11:17,519 INFO 参数设置已保存到H:\isoftstone\LDA\python-LDA-master\LDA-python-from wangjing\data\tmp\model_parameter.dat
+2015-10-22 17:11:17,585 INFO 主题topN词已保存到H:\isoftstone\LDA\python-LDA-master\LDA-python-from wangjing\data\tmp\model_twords.dat
+2015-10-22 17:11:18,276 INFO 文章-词-主题分派结果已保存到H:\isoftstone\LDA\python-LDA-master\LDA-python-from wangjing\data\tmp\model_tassign.dat
+2015-10-22 17:11:18,296 INFO 模型训练完成。
