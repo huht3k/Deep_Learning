@@ -6,5 +6,5 @@
 # object_detect_interface
 > interface for object detection of real time video
 # face_structure
-> Prototype for face recognition structurization
+> Prototype for face recognition structurization  
 > Face Engine from https://github.com/seetaface/SeetaFaceEngine
