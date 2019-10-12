@@ -1,0 +1,2 @@
+Before Finetuning Test Accuracy: 83.740%
+After Finetuning Test Accuracy: 98.330%
