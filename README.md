@@ -10,3 +10,5 @@
 > Face Engine from https://github.com/seetaface/SeetaFaceEngine
 # UFLDL  
 > exercises for http://ufldl.stanford.edu/
+# ML/LDA  
+> LDA prototype demo for python 2.7
