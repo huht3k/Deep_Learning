@@ -8,3 +8,5 @@
 # face_structure
 > Prototype for face recognition structurization  
 > Face Engine from https://github.com/seetaface/SeetaFaceEngine
+# UFLDL  
+> exercises for http://ufldl.stanford.edu/
