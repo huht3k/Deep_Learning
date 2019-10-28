@@ -12,3 +12,6 @@
 > Matlab exercises for http://ufldl.stanford.edu/
 # ML/LDA  
 > LDA prototype demo with python 2.7
+# algorithms  
+> queen.cpp:  N queen problems  
+
